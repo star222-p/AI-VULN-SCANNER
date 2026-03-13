@@ -1,2 +1,0 @@
-argparse==1.4.0
-python-nmap==0.7.1
